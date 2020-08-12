@@ -53,7 +53,7 @@ pela transmissão dos dados para os dispositivos móveis
 
 
 
-## Authors
+## Autores
 
 [Projeto engenharia de software](https://github.com/jeancomp/Projeto_Eng_Software)
 
