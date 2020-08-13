@@ -58,9 +58,9 @@ pela transmissão dos dados para os dispositivos móveis
 [Projeto engenharia de software](https://github.com/jeancomp/Projeto_Eng_Software)
 
 * **Jean Marques** 
-
+Email: jeancomp@gmail.com
 * **João Pedro**   
-
+Email: juaopedrao@gmail.com
 
 
 
